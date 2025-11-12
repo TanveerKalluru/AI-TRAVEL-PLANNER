@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure Gemini API Key
-genai.configure(api_key="AIzaSyCNcDqBuahNOVuu7m20r--UKshLYz9uEnk")
+genai.configure(api_key="AIzaSyC3qjkAfj_5YmFx2DYry7aEx8PPfYcaAVE")
 
 
 def get_travel_itinerary(user_input):
